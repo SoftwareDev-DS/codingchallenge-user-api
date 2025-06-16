@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Anakin Skywalker",
+    "email": "anakin@darthvader.star"
+  },
+  {
+    "id": 2,
+    "name": "Darth Maul",
+    "email": "aka@thebest.com"
+  }
+]
